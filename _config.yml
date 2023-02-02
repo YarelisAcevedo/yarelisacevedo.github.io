@@ -1,0 +1,28 @@
+title: Yarelis D. Acevedo Rios
+logo: /assets/img/logo.jpg
+email: yarelis.acevedo@upr.edu
+description: Portfolio
+favicon: true
+color-scheme: dark
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+platforms:
+  - name: CV
+    icon: <i class="fa-solid fa-file-pen"></i>
+    link: ./assets/files/Yarelis_Acevedo_CV.pdf
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/YarelisAcevedo
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/yarelis-acevedo-550b7644/
+  - name: Projects
+    icon: <i class="fa-solid fa-bars-progress"></i>
+    link: ./projects
+  - name: Educational Physics Portfolio (Spanish)
+    icon: <i class="fa-solid fa-pen-clip"></i>
+    link: https://sites.google.com/upr.edu/yarelisacevedo

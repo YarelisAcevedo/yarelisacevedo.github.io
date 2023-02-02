@@ -1,0 +1,87 @@
+@import "colors";
+
+.highlight table td {
+  padding: 5px;
+}
+.highlight table pre {
+  margin: 0;
+}
+.highlight, .highlight .w {
+  color: var(--clr-w-text);
+}
+.highlight .err {
+  color: var(--clr-err-text);
+  background-color: var(--clr-err-bg);
+}
+.highlight .c, .highlight .cd, .highlight .cm, .highlight .c1, .highlight .cs {
+  color: var(--clr-cd-text);
+}
+.highlight .cp {
+  color: var(--clr-cp-text);
+  font-weight: bold;
+}
+.highlight .nt {
+  color: var(--clr-cp-text);
+}
+.highlight .o, .highlight .ow {
+  color: var(--clr-o-text);
+  font-weight: bold;
+}
+.highlight .p, .highlight .pi {
+  color: var(--clr-o-text);
+}
+.highlight .gi {
+  color: var(--clr-gi-text);
+}
+.highlight .gd {
+  color: var(--clr-gd-text);
+}
+.highlight .gh {
+  color: var(--clr-gh-text);
+  font-weight: bold;
+}
+.highlight .k, .highlight .kn, .highlight .kp, .highlight .kr {
+  color: var(--clr-k-text);
+  font-weight: bold;
+}
+.highlight .kc, .highlight .kv {
+  color: var(--clr-kc-text);
+  font-weight: bold;
+}
+.highlight .kt {
+  color: var(--clr-kt-text);
+}
+.highlight .kd {
+  color: var(--clr-kd-text);
+  font-weight: bold;
+}
+.highlight .s, .highlight .sb, .highlight .sc, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .sx, .highlight .s1 {
+  color: var(--clr-s-text);
+}
+.highlight .sr {
+  color: var(--clr-sr-text);
+}
+.highlight .si {
+  color: var(--clr-si-text);
+}
+.highlight .se {
+  color: var(--clr-se-text);
+}
+.highlight .nn {
+  color: var(--clr-nn-text);
+}
+.highlight .nc {
+  color: var(--clr-nc-text);
+}
+.highlight .no {
+  color: var(--clr-no-text);
+}
+.highlight .na {
+  color: var(--clr-na-text);
+}
+.highlight .m, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, .highlight .mo, .highlight .mb, .highlight .mx {
+  color: var(--clr-m-text);
+}
+.highlight .ss {
+  color: var(--clr-ss-text);
+}
