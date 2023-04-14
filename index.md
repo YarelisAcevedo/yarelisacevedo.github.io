@@ -196,6 +196,20 @@ I have developed, organized and mentored the following education and outreach ac
 
 <div class="card">
 <img src="/assets/img/UPRM.png" style="float:right;width:50px;height:50px;">
+  <h3>Robotics in STEAM, Monserrate de León Irizarry High School, Cabo Rojo, PR</h3>
+  <ul>
+    <li>Mentor, March 30, 2023</li>
+    <ul>
+    <li style="margin-left:2em">Show how robotics are related with science, math, art and engineering. For a demonstration used my 3D printer and a drone.</li>
+    <ul>
+            <li style="margin-left:2em"> 5ta Feria STEAM 2023: Un encuentro con la biodiversidad </li>
+    </ul>
+    </ul>
+  </ul>
+</div>
+
+<div class="card">
+<img src="/assets/img/UPRM.png" style="float:right;width:50px;height:50px;">
   <h3>Python 101 for STEM teachers, University of Puerto Rico Mayaguez, PR</h3>
   <ul>
     <li>Mentor, August 20, 2022</li>
@@ -358,9 +372,19 @@ I have developed, organized and mentored the following education and outreach ac
 <div class="card">
   <h3>Search for VLQ Wq+X at ATLAS detector</h3>
   <ul>
-    <li>ATLAS SUPER Program Symposium - January 2023</li>
+    <li>Physics Symposium at UPRM - March 2023</li>
     <ul>
-    <li style="margin-left:2em"> <a href="https://sciences.ucf.edu/cuwip/poster-sessions/" > Poster presentation</a></li>
+    <li style="margin-left:2em"> <a href="./assets/files/Simposio.pdf" > Oral Presentation</a></li>
+    </ul>
+  </ul>
+</div>
+
+<div class="card">
+  <h3>Search for VLQ Wq+X at ATLAS detector</h3>
+  <ul>
+    <li>2023 APS CUWiP at the University of Central Florida - January 2023</li>
+    <ul>
+    <li style="margin-left:2em"> <a href="https://sciences.ucf.edu/cuwip/poster-sessions/" > Poster Presentation</a></li>
     </ul>
   </ul>
 </div>
@@ -370,7 +394,7 @@ I have developed, organized and mentored the following education and outreach ac
   <ul>
     <li>ATLAS SUPER Program Symposium - August 2022</li>
     <ul>
-    <li style="margin-left:2em"> <a href="https://indico.cern.ch/event/1186314/" > Oral presentation</a></li>
+    <li style="margin-left:2em"> <a href="https://indico.cern.ch/event/1186314/" > Oral Presentation</a></li>
     </ul>
   </ul>
 </div>
