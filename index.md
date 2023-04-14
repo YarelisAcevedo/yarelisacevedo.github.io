@@ -372,29 +372,17 @@ I have developed, organized and mentored the following education and outreach ac
 <div class="card">
   <h3>Search for VLQ Wq+X at ATLAS detector</h3>
   <ul>
-    <li>Physics Symposium at UPRM - March 2023</li>
-    <ul>
-    <li style="margin-left:2em"> <a href="./assets/files/Simposio.pdf" > Oral Presentation</a></li>
-    </ul>
-  </ul>
-</div>
-
-<div class="card">
-  <h3>Search for VLQ Wq+X at ATLAS detector</h3>
-  <ul>
-    <li>2023 APS CUWiP at the University of Central Florida - January 2023</li>
-    <ul>
-    <li style="margin-left:2em"> <a href="https://sciences.ucf.edu/cuwip/poster-sessions/" > Poster Presentation</a></li>
-    </ul>
-  </ul>
-</div>
-
-<div class="card">
-  <h3>Search for VLQ Wq+X at ATLAS detector</h3>
-  <ul>
     <li>ATLAS SUPER Program Symposium - August 2022</li>
     <ul>
     <li style="margin-left:2em"> <a href="https://indico.cern.ch/event/1186314/" > Oral Presentation</a></li>
+    </ul>
+    <li> 2023 APS CUWiP at the University of Central Florida - January 2023</li>
+    <ul>
+    <li style="margin-left:2em"> <a href="https://sciences.ucf.edu/cuwip/poster-sessions/" > Poster Presentation</a></li>
+    </ul>
+    <li>Physics Symposium at UPRM - March 2023</li>
+    <ul>
+    <li style="margin-left:2em"> <a href="./assets/files/Simposio.pdf" > Oral Presentation</a></li>
     </ul>
   </ul>
 </div>
