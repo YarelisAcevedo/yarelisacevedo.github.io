@@ -73,7 +73,7 @@ My name is **Yarelis Danixa Acevedo Rios**, an undergrad in the Physics Departme
         <li style="margin-left:2em">Learned Pytest</li>
         <li style="margin-left:2em">Git - Github</li>
             <ul>
-                <li style="margin-left:2em"> <a href=https://iris-hep.org/fellows.html >HSF Early Fellow Annoucement</a></li>
+                <li style="margin-left:2em"> <a href="https://iris-hep.org/fellows.html" >HSF Early Fellow Annoucement</a></li>
             </ul>
         </ul>
     </ul>
@@ -234,7 +234,7 @@ I have developed, organized and mentored the following education and outreach ac
     <ul>
     <li style="margin-left:2em">Maintain the computers running with the correct material, make sure that the material was up during talks.</li>
     <ul>
-            <li style="margin-left:2em"> <a href=https://sprouting.education/ >Sprouting event</a></li>
+            <li style="margin-left:2em"> <a href="https://sprouting.education/" >Sprouting event</a></li>
     </ul>
     </ul>
   </ul>
