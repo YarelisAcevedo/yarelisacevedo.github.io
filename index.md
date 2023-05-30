@@ -63,6 +63,38 @@ My name is **Yarelis Danixa Acevedo Rios**, an undergrad in the Physics Departme
 # Experience
 
 <div class="card">
+<img src="/assets/img/40992185.png" style="float:right;width:55px;height:55px;">
+  <h3>HSF Training</h3>
+  <ul>
+    <li>Early Fellow, April 2023 - Present</li>
+    <ul>
+    <li style="margin-left:2em">Create lesson for Pytest for the Preservation Training of HSF</li>
+        <ul>
+        <li style="margin-left:2em">Learned Pytest</li>
+        <li style="margin-left:2em">Git - Github</li>
+            <ul>
+                <li style="margin-left:2em"> <a href=https://iris-hep.org/fellows.html >HSF Early Fellow Annoucement</a></li>
+            </ul>
+        </ul>
+    </ul>
+  </ul>
+</div>
+
+<div class="card">
+<img src="/assets/img/ces-logo_orig.png" style="float:right;width:55px;height:28.6px;">
+  <h3>Cutting Edge Superconductors Inc, Mayagüez PR</h3>
+  <ul>
+    <li>Lab Technician, December 2022 - March 2023</li>
+    <ul>
+    <li style="margin-left:2em">Maintain the lab equipment in optimal conditions, prepare the mix to fabricate the superconductors. Organize events for the exposition of the company.</li>
+        <ul>
+        <li style="margin-left:2em">Preparation of products in a glove box.</li>
+        </ul>
+    </ul>
+  </ul>
+</div>
+
+<div class="card">
 <img src="/assets/img/OSU.png" style="float:right;width:55px;height:28.6px;">
   <h3>ATLAS SUPER Program Intern, Oklahoma State University</h3>
   <ul>
@@ -193,6 +225,20 @@ My name is **Yarelis Danixa Acevedo Rios**, an undergrad in the Physics Departme
 # Outreach and educational activities
 
 I have developed, organized and mentored the following education and outreach activities with high school teachers and students in Puerto Rico.
+
+<div class="card">
+<img src="/assets/img/UPRM.png" style="float:right;width:50px;height:50px;">
+  <h3>Sprouting, Mayagüez, PR</h3>
+  <ul>
+    <li>IT Person, May 22 - 26, 2023</li>
+    <ul>
+    <li style="margin-left:2em">Maintain the computers running with the correct material, make sure that the material was up during talks.</li>
+    <ul>
+            <li style="margin-left:2em"> <a href=https://sprouting.education/ >Sprouting event</a></li>
+    </ul>
+    </ul>
+  </ul>
+</div>
 
 <div class="card">
 <img src="/assets/img/UPRM.png" style="float:right;width:50px;height:50px;">
