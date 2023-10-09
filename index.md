@@ -8,7 +8,7 @@ layout: default
 
 # About Me
 
-My name is **Yarelis Danixa Acevedo Rios**, an undergrad in the Physics Department at the University of Puerto Rico, Mayaguez. I'm passionate about designing, building, and programming machinery for experimentation. I have strong qualitative and analytical skills to conduct independent research. I speak English and Spanish fluently.
+My name is **Yarelis Danixa Acevedo Rios**, a Laboratory Technician|Research Technician 2 at the Outer Tracker, CMS group of Brown University. I completed my undergrad in the Physics Department at the University of Puerto Rico, Mayaguez. I'm passionate about designing, building, and programming machinery for experimentation. I have strong qualitative and analytical skills to conduct independent research. I speak English and Spanish fluently.
 
 <hr>
 
@@ -41,6 +41,7 @@ My name is **Yarelis Danixa Acevedo Rios**, an undergrad in the Physics Departme
         - Pandas
         - OpenCV
 - **LabVIEW**
+- **Wire Bonder**
 - **CAD (Computer-Aided Design)**
     - **Autodesk**
         - **Inventor**
@@ -63,10 +64,29 @@ My name is **Yarelis Danixa Acevedo Rios**, an undergrad in the Physics Departme
 # Experience
 
 <div class="card">
+<img src="/assets/img/brown-university.png" style="float:right;width:32.3px;height:55px;">
+  <h3>Outer Tracker Upgrade(CMS - CERN), Brown University</h3>
+  <ul>
+    <li>Laboratory Technician | Research Technician 2, August 2023 - Present</li>
+    <ul>
+    <li style="margin-left:2em">Sensor Testing for Phase 2 Upgrade of the Outer Tracker of CMS, CERN</li>
+        <ul>
+        <li style="margin-left:2em">Use of a probing station</li>
+        <li style="margin-left:2em">Wire bonding</li>
+        <li style="margin-left:2em">Alibava setup</li>
+            <ul>
+                <li style="margin-left:2em"> <a href="https://directory.brown.edu/uuid/1a611639-a7e8-4783-91f7-9b28dde8eecc" >Brown's Univerity Directory</a></li>
+            </ul>
+        </ul>
+    </ul>
+  </ul>
+</div>
+
+<div class="card">
 <img src="/assets/img/40992185.png" style="float:right;width:55px;height:55px;">
   <h3>HSF Training</h3>
   <ul>
-    <li>Early Fellow, April 2023 - Present</li>
+    <li>Early Fellow, April 2023 - June 2023</li>
     <ul>
     <li style="margin-left:2em">Create lesson for Pytest for the Preservation Training of HSF</li>
         <ul>
@@ -84,7 +104,7 @@ My name is **Yarelis Danixa Acevedo Rios**, an undergrad in the Physics Departme
 <img src="/assets/img/ces-logo_orig.png" style="float:right;width:55px;height:28.6px;">
   <h3>Cutting Edge Superconductors Inc, Mayagüez PR</h3>
   <ul>
-    <li>Lab Technician, December 2022 - March 2023</li>
+    <li>Laboratory Technician, December 2022 - March 2023</li>
     <ul>
     <li style="margin-left:2em">Maintain the lab equipment in optimal conditions, prepare the mix to fabricate the superconductors. Organize events for the exposition of the company.</li>
         <ul>
