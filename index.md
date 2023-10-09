@@ -67,7 +67,7 @@ My name is **Yarelis Danixa Acevedo Rios**, a Laboratory Technician|Research Tec
 <img src="/assets/img/brown-university.png" style="float:right;width:32.3px;height:55px;">
   <h3>Outer Tracker Upgrade(CMS - CERN), Brown University</h3>
   <ul>
-    <li>Laboratory Technician | Research Technician 2, August 2023 - Present</li>
+    <li>Laboratory Technician/Research Technician 2, August 2023 - Present</li>
     <ul>
     <li style="margin-left:2em">Sensor Testing for Phase 2 Upgrade of the Outer Tracker of CMS, CERN</li>
         <ul>
