@@ -23,6 +23,9 @@ platforms:
   - name: Projects
     icon: <i class="fa-solid fa-bars-progress"></i>
     link: ./projects
+  - name: 3D print help/tutorial
+    icon: <i class="fa-solid fa-bars-progress"></i>
+    link: ./3Dprint_help
   - name: Educational Physics Portfolio (Spanish)
     icon: <i class="fa-solid fa-pen-clip"></i>
     link: https://sites.google.com/upr.edu/yarelisacevedo

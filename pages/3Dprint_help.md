@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /3Dprint_help
+---
+
 # 🌟 3D Printing Adventure! 🌟
 
 The world of 3D printing is **AMAZING**! Imagine turning your ideas into real objects you can touch and hold. Cool, right? Learning 3D printing can help you build awesome skills for the future. Who knows, maybe you'll even invent something incredible! 🚀
@@ -90,27 +95,27 @@ The slicer used for the CR-6 SE is:
 
 1. **Open Cura**  
    - This is the main view of the slicer:  
-     ![Main View of Cura](1.png)  
+     ![Main View of Cura](/assets/img/Cura_slicer_img/1.png)  
 
 2. **Add Your Printer**  
    - Click on the tab in the upper left corner and select **Add Printer**:  
-     ![Add Printer](2.png)  
+     ![Add Printer](/assets/img/Cura_slicer_img/2.png)  
 
 3. **Select Non-Ultimaker Printer**  
    - From the list, choose **Select Non-Ultimaker Printer**:  
-     ![Select Non-Ultimaker Printer](3.png)  
+     ![Select Non-Ultimaker Printer](/assets/img/Cura_slicer_img/3.png)  
 
 4. **Add a Non-Networked Printer**  
    - Choose **Add a Non-Networked Printer**:  
-     ![Add a Non-Networked Printer](4.png)  
+     ![Add a Non-Networked Printer](/assets/img/Cura_slicer_img/4.png)  
 
 5. **Search for CR-6 SE**  
    - Type `Creality CR-6 SE` in the search bar and select it:  
-     ![Search for CR-6 SE](5.png)  
+     ![Search for CR-6 SE](/assets/img/Cura_slicer_img/5.png)  
 
 6. **Finish Setup**  
    - Click **Next**, and you’re done!  
-     ![Setup Complete](6.png)  
+     ![Setup Complete](/assets/img/Cura_slicer_img/6.png)  
 
 ---
 
