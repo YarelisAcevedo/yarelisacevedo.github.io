@@ -18,3 +18,6 @@ gem "webrick"
 # adding the following gems to support removal of "github-pages" dependency
 gem "jemoji"
 gem "kramdown-parser-gfm"
+
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
